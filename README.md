@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Divya</h1>
+<!-- <h1 align="center">Hi 👋, I'm Divya</h1> -->
+![DIVYA SURI](https://user-images.githubusercontent.com/56087532/225515723-7042e436-5b1e-4b46-8723-dfcdd39cf03d.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=div31&label=Profile%20views&color=0e75b6&style=flat" alt="div31" /> </p>
 
